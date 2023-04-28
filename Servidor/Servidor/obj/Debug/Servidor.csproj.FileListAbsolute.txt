@@ -1,0 +1,22 @@
+C:\Users\Oswald\Desktop\Proyecto Programado 2\Servidor\Servidor\bin\Debug\Servidor.exe.config
+C:\Users\Oswald\Desktop\Proyecto Programado 2\Servidor\Servidor\bin\Debug\Servidor.exe
+C:\Users\Oswald\Desktop\Proyecto Programado 2\Servidor\Servidor\bin\Debug\Servidor.pdb
+C:\Users\Oswald\Desktop\Proyecto Programado 2\Servidor\Servidor\obj\Debug\Servidor.csproj.AssemblyReference.cache
+C:\Users\Oswald\Desktop\Proyecto Programado 2\Servidor\Servidor\obj\Debug\Servidor.csproj.SuggestedBindingRedirects.cache
+C:\Users\Oswald\Desktop\Proyecto Programado 2\Servidor\Servidor\obj\Debug\Servidor.Form1.resources
+C:\Users\Oswald\Desktop\Proyecto Programado 2\Servidor\Servidor\obj\Debug\Servidor.Properties.Resources.resources
+C:\Users\Oswald\Desktop\Proyecto Programado 2\Servidor\Servidor\obj\Debug\Servidor.csproj.GenerateResource.cache
+C:\Users\Oswald\Desktop\Proyecto Programado 2\Servidor\Servidor\obj\Debug\Servidor.csproj.CoreCompileInputs.cache
+C:\Users\Oswald\Desktop\Proyecto Programado 2\Servidor\Servidor\obj\Debug\Servidor.exe
+C:\Users\Oswald\Desktop\Proyecto Programado 2\Servidor\Servidor\obj\Debug\Servidor.pdb
+C:\Users\Oswald\Desktop\Proyecto Programado 2 vF\Servidor\Servidor\bin\Debug\Servidor.exe.config
+C:\Users\Oswald\Desktop\Proyecto Programado 2 vF\Servidor\Servidor\bin\Debug\Servidor.exe
+C:\Users\Oswald\Desktop\Proyecto Programado 2 vF\Servidor\Servidor\obj\Debug\Servidor.csproj.AssemblyReference.cache
+C:\Users\Oswald\Desktop\Proyecto Programado 2 vF\Servidor\Servidor\obj\Debug\Servidor.csproj.SuggestedBindingRedirects.cache
+C:\Users\Oswald\Desktop\Proyecto Programado 2 vF\Servidor\Servidor\obj\Debug\Servidor.Form1.resources
+C:\Users\Oswald\Desktop\Proyecto Programado 2 vF\Servidor\Servidor\obj\Debug\Servidor.Properties.Resources.resources
+C:\Users\Oswald\Desktop\Proyecto Programado 2 vF\Servidor\Servidor\obj\Debug\Servidor.csproj.GenerateResource.cache
+C:\Users\Oswald\Desktop\Proyecto Programado 2 vF\Servidor\Servidor\obj\Debug\Servidor.csproj.CoreCompileInputs.cache
+C:\Users\Oswald\Desktop\Proyecto Programado 2 vF\Servidor\Servidor\obj\Debug\Servidor.exe
+C:\Users\Oswald\Desktop\Proyecto Programado 2 vF\Servidor\Servidor\obj\Debug\Servidor.pdb
+C:\Users\Oswald\Desktop\Proyecto Programado 2 vF\Servidor\Servidor\bin\Debug\Servidor.pdb
